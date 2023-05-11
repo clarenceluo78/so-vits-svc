@@ -80,7 +80,7 @@ def process_batch(filenames):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument(
-        "--in_dir", type=str, default="dataset/44k", help="path to input dir"
+        "--in_dir", type=str, default="/mntnfs/lee_data1/haoyan/dataset/ProSinger/44k", help="path to input dir"
     )
 
     args = parser.parse_args()

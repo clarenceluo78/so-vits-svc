@@ -73,7 +73,7 @@ def main():
 
     infer_tool.fill_a_to_b(trans, clean_names)
     for clean_name, tran in zip(clean_names, trans):
-        raw_audio_path = f"raw/{clean_name}"
+        raw_audio_path = f"/mntnfs/lee_data1/haoyan/dataset/M4Singer/collection/{clean_name}"
         if "." not in raw_audio_path:
             raw_audio_path += ".wav"
         infer_tool.format_wav(raw_audio_path)

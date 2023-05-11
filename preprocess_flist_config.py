@@ -25,7 +25,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--train_list", type=str, default="./filelists/train.txt", help="path to train list")
     parser.add_argument("--val_list", type=str, default="./filelists/val.txt", help="path to val list")
-    parser.add_argument("--source_dir", type=str, default="./dataset/44k", help="path to source dir")
+    parser.add_argument("--source_dir", type=str, default="/mntnfs/lee_data1/haoyan/dataset/ProSinger/44k", help="path to source dir")
     args = parser.parse_args()
     
     train = []

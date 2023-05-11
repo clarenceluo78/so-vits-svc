@@ -1,4 +1,8 @@
-./dataset/44k/nyaru/000003.wav
-./dataset/44k/nyaru/000007.wav
-./dataset/44k/taffy/000558.wav
-./dataset/44k/taffy/000556.wav
+/mntnfs/lee_data1/haoyan/dataset/ProSinger/44k/YijieShi/8_0.wav
+/mntnfs/lee_data1/haoyan/dataset/ProSinger/44k/李健/68_0.wav
+/mntnfs/lee_data1/haoyan/dataset/ProSinger/44k/Adele/28_8.wav
+/mntnfs/lee_data1/haoyan/dataset/ProSinger/44k/李健/29_8.wav
+/mntnfs/lee_data1/haoyan/dataset/ProSinger/44k/YijieShi/1_7.wav
+/mntnfs/lee_data1/haoyan/dataset/ProSinger/44k/Adele/44_2.wav
+/mntnfs/lee_data1/haoyan/dataset/ProSinger/44k/opencpop/2075002793.wav
+/mntnfs/lee_data1/haoyan/dataset/ProSinger/44k/opencpop/2035001316.wav
